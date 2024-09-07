@@ -66,3 +66,5 @@ That's all folks! Avo-great day 🌞</h2>
 <br/><br/>
 
 ![](https://komarev.com/ghpvc/?username=avocadoattack&color=brightgreen&style=for-the-badge)
+
+![](https://hit.yhype.me/github/profile?user_id=80217976)
