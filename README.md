@@ -1,5 +1,7 @@
 ![Avocado-GH-README-Image-White](https://github.com/user-attachments/assets/f319245d-f2ef-4c3d-aecc-8a922344d670)
 
+***
+
 <div align="right">
 
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
