@@ -1,6 +1,10 @@
 ![Avocado-GH-README-Image-White](https://github.com/user-attachments/assets/f319245d-f2ef-4c3d-aecc-8a922344d670)
 
-***
+<div align="right">
+
+[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
+
+</div>
 
 ### 😎 Avoca-Yo!
 I'm Mr. Avocado and I'm crazy about privacy, pie (charts), and puns. Other interests include monetary history, biohacking, philosophy (it was my major), and of course, world domination. If you don't like my puns or humor feel free to ... `Kiss my` [Hass](https://en.wikipedia.org/wiki/Hass_avocado)
@@ -34,7 +38,7 @@ If you have any feedback, critiques, or compliments, please do tell! Send me som
 <br/><br/>
 
 ### 🤗 Socials & Tip Jar
-Connect with me on my socials, or if you appreciate my work, feel free to send me a tip. Thank you!
+Connect with me on my socials, or if you appreciate my work, feel free to send me a tip. **Thank you!**
 
 [![Twitter](https://img.shields.io/badge/Twitter%20-%20%23334155?style=flat&logo=x&logoSize=auto)](https://x.com/avoattack)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/avoattack/)
