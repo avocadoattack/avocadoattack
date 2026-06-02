@@ -63,10 +63,6 @@ The avocadoattack/Mr.Avocado avatar is © 2024-2026 by Mr. Avocado. All rights r
 > `Random Joke` ➞ One avocado said to the other, “You’re hardcore.”
 <br/><br/>
 
-<p align="center">
- <img width="70px" src="https://svgshare.com/i/1A9m.svg" align="center" alt="Pixel Heart" />
-</p>
-
 <h2 align="center">Remember to spread avocados, not hate.
 That's all folks! Avo-great day 🌞</h2>
 <br/><br/>
