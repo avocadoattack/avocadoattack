@@ -56,7 +56,7 @@ Connect with me on my socials, or if you appreciate my work, feel free to send m
 <br/><br/>
 
 ### 📝 License
-The avocadoattack/Mr.Avocado avatar is © 2024 by Mr. Avocado. All rights reserved.
+The avocadoattack/Mr.Avocado avatar is © 2024-2026 by Mr. Avocado. All rights reserved.
 <br/><br/>
 
 > [!IMPORTANT]
