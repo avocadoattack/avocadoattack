@@ -18,7 +18,7 @@ I love to accumulate and categorize knowledge. Researching, compiling, and organ
 <br/><br/>
 
 ### 🧐 Interested In
-[![My Skills](https://skillicons.dev/icons?i=bash,py,js,go,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,py,ts,coffeescript,go,docker)](https://skillicons.dev)
 <br/><br/>
 
 ### 📫 Say Hi!
