@@ -9,7 +9,7 @@
 </div>
 
 ### 😎 Avoca-Yo!
-I'm Mr. Avocado and I'm crazy about privacy, pie (charts), and puns. Other interests include monetary history, biohacking, philosophy (it was my major), and of course, world domination. If you don't like my puns or humor feel free to ... `Kiss my` [Hass](https://en.wikipedia.org/wiki/Hass_avocado)
+I'm Mr. Avocado and I'm crazy about privacy, pie (charts), and puns. Other interests include monetary history, finance, biohacking, health science, psychopharmacology, philosophy, and of course, world domination. If you don't like my puns or humor feel free to Kiss my [Hass](https://en.wikipedia.org/wiki/Hass_avocado).
 
 <h3 align="center">🥑 Are you ready to guac and roll? 🎸</h3>
 
@@ -45,6 +45,7 @@ Connect with me on my socials, or if you appreciate my work, feel free to send m
 [![Twitter](https://img.shields.io/badge/Twitter%20-%20%23334155?style=flat&logo=x&logoSize=auto)](https://x.com/avoattack)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/avoattack/)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/avocadoattack)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/avocadoattack)
 <br/><br/>
 
 ### 🙏 Acknowledgements
