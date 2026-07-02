@@ -18,17 +18,25 @@ When it comes to organizing, I’m the toast of the town; turning research into 
 ### 🛠️ Projects
 > *You know how avocados go from rock-hard to overripe in twenty minutes? Development moves about the same speed around here.*
 
+Most of what I build here is and will stay free and open-source. A couple of future ideas (health-related tools especially) may ship as freemium, donation-unlocked, or source-available instead. I'll be upfront about licensing the moment anything like that goes live.
+
 #### `🥑 Shipped` — Live and ready to eat
 - [TextGlide](https://textglide.app) — EPUB reformatter that inserts research-calibrated spacing at phrase boundaries, so you read faster without noticing why.
+- [Memento Mori](https://memento-mori-4bm.pages.dev/) — Calculates how much of your life is truly free after subtracting sleep, work, education, and habitual time-wasting.
 
 #### `🌱 Ripening` — Actively being built
 - Revamp of the [avocaadottack](https://avocadoattack.com) website
 
 #### `🌰 Seedling` — Idea stage, not yet planted 
-- Small privacy tools and workflow automations
-- A grab-bag of simple dev utilities and scripts
-- Plain-language digests of dense monetary policy publications via AI parsing
-- Science-based mobile app for neurodivergent folks to track meds, mood, and energy.
+- Self-hosted, centralized captcha service (Cap.dev-powered) protecting every project under one roof, no per-app setup
+- One-click-deploy-button directory: every one-click deploy option cataloged in one place, no more scavenger hunts
+- Shell scripts to automate repetitive tasks, simplify routine machine upkeep, and generally keep my setup from rotting
+- ADHD med tracker using real pharmacokinetic data, user vitals, and food timing mapped to a concentration-time curve
+- Plain-language digest of BIS, FSB, IMF, and World Bank publications, tracking the CBDC/stablecoin story as it unfolds
+- Email badge generator: a spiritual revival of [Nexodyne's tool](https://web.archive.org/web/20250518164602/https://services.nexodyne.com/email/): a PNG badge pairing your handle with your provider's logo
+- Medication travel dossier generator: input meds and itinerary; get a per-country legal checklist (prescriptions, permits...)
+- Spanish learning tool built around confusing contrasts (*ser* vs. *estar*, *por* vs. *para*, false friends), not textbook chapters
+- A just-for-fun homage to *The Net*'s Praetorian / π easter egg, because some bits deserve a nod (long live the 90s)
 <br/><br/>
 
 ### 🧐 Currently Leveling Up
@@ -70,7 +78,7 @@ I exist on socials more in theory than in practice, but the links are there if y
 <br/><br/>
 
 ### ℹ️ IP Notice
-The avocadoattack handle and Mr. Avocado avatar are trademarks of Mr. Avocado. All rights reserved.
+The `avocadoattack` handle and `Mr. Avocado` avatar are trademarks of Mr. Avocado. All rights reserved.
 <br/><br/>
 
 > [!IMPORTANT]
