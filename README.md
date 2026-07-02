@@ -25,10 +25,10 @@ When it comes to organizing, I’m the toast of the town; turning research into 
 - Revamp of the [avocaadottack](https://avocadoattack.com) website
 
 #### `🌰 Seedling` — Idea stage, not yet planted 
-- Small privacy tools and automation workflows
-- A grab-bag of simple dev-utility tools and automation scripts
-- Tool for digesting dense monetary policy publications into plain language
-- Science-based mobile app for neurodivergent folks to track medication, mood, energy levels, etc.
+- Small privacy tools and workflow automations
+- A grab-bag of simple dev utilities and scripts
+- Plain-language digests of dense monetary policy publications via AI parsing
+- Science-based mobile app for neurodivergent folks to track meds, mood, and energy.
 <br/><br/>
 
 ### 🧐 Currently Leveling Up
