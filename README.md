@@ -12,17 +12,16 @@
 I’m Mr. Avocado: crazy about privacy, pie (charts), and puns, with a curiosity that branches into everything from monetary history and finance to biohacking, psychopharmacology, and philosophy. Whether I’m plotting world domination or just the perfect spreadsheet, gathering and sorting knowledge is my favorite ~~mashtime~~ pastime.
 
 When it comes to organizing, I’m the toast of the town; turning research into beautiful, actionable, and interactive lists is my specialty. Over time, I’ve curated collections of apps, tools, and services that help life run more privately, securely, efficiently, and fun. If my puns don’t guac your world, you can always *kiss my [hass](https://en.wikipedia.org/wiki/Hass_avocado)*.
-
-<h3 align="center">🥑 Are you ready to guac and roll? 🎸</h3>
+<img width="2200" height="500" alt="Cypherpunk Guac n Roll GIF Banner" src="https://github.com/user-attachments/assets/4e0fc554-c213-4ab8-9cf0-8731140b7beb" />
 
 ### 🛠️ Projects
-> *You know how avocados go from rock-hard to overripe in twenty minutes? Development moves about the same speed around here.*
+> *Development happens in bursts: nothing for weeks, then three things ship in a weekend.*
 
-Most of what I build here is and will stay free and open-source. A couple of future ideas (health-related tools especially) may ship as freemium, donation-unlocked, or source-available instead. I'll be upfront about licensing the moment anything like that goes live.
+Most of what I build here is and will stay free and open-source. A couple of future ideas may ship as freemium, donation-unlocked, or source-available instead. I'll be upfront about licensing the moment anything like that goes live.
 
 #### `🥑 Shipped` — Live and ready to eat
-- [TextGlide](https://textglide.app) — EPUB reformatter that inserts research-calibrated spacing at phrase boundaries, so you read faster without noticing why.
-- [Memento Mori](https://memento-mori-4bm.pages.dev/) — Calculates how much of your life is truly free after subtracting sleep, work, education, and habitual time-wasting.
+- [TextGlide](https://textglide.app) — EPUB reformatter that inserts research-calibrated spacing at phrase boundaries — read faster without noticing why
+- [Memento Mori](https://memento-mori-4bm.pages.dev/) — Calculates how much of your life is actually free, after sleep, work, education, and habitual time-wasting
 
 #### `🌱 Ripening` — Actively being built
 - Revamp of the [avocaadottack](https://avocadoattack.com) website
@@ -40,7 +39,7 @@ Most of what I build here is and will stay free and open-source. A couple of fut
 <br/><br/>
 
 ### 🧐 Currently Leveling Up
-Full disclosure: I'm not a coder. But as AI improved, I’m finally able to build the things I'd been sketching in my head for years. So I'm learning by doing, using AI pair-programming, and whatever tools help me turn ideas into reality. Shell scripts to automate the boring stuff, Python and TypeScript for the actual building, Go when I need something fast and reliable, and Docker to keep it all from falling apart.
+I'm not a coder. But as AI improved, I’m finally able to build the things I'd been sketching in my head for years. So I'm learning by doing, using AI pair-programming, and whatever tools help me turn ideas into reality. Shell scripts to automate the boring stuff, Python and TypeScript for the actual building, Go when I need something fast and reliable, and Docker to keep it all from falling apart.
 
 [![My Skills](https://skillicons.dev/icons?i=bash,py,ts,go,docker)](https://skillicons.dev)
 <br/><br/>
