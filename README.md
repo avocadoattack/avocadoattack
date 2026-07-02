@@ -12,7 +12,7 @@
 I’m Mr. Avocado: crazy about privacy, pie (charts), and puns, with a curiosity that branches into everything from monetary history and finance to biohacking, psychopharmacology, and philosophy. Whether I’m plotting world domination or just the perfect spreadsheet, gathering and sorting knowledge is my favorite ~~mashtime~~ pastime.
 
 When it comes to organizing, I’m the toast of the town; turning research into beautiful, actionable, and interactive lists is my specialty. Over time, I’ve curated collections of apps, tools, and services that help life run more privately, securely, efficiently, and fun. If my puns don’t guac your world, you can always *kiss my [hass](https://en.wikipedia.org/wiki/Hass_avocado)*.
-<img width="2200" height="500" alt="Cypherpunk Guac n Roll GIF Banner" src="https://github.com/user-attachments/assets/4e0fc554-c213-4ab8-9cf0-8731140b7beb" />
+<img width="2200" height="500" alt="Guac-n-Roll GIF Banner" src="https://github.com/user-attachments/assets/39d18f28-50ca-4d3d-80ce-4103f4d00cef" />
 
 ### 🛠️ Projects
 > *Development happens in bursts: nothing for weeks, then three things ship in a weekend.*
@@ -20,7 +20,7 @@ When it comes to organizing, I’m the toast of the town; turning research into 
 Most of what I build here is and will stay free and open-source. A couple of future ideas may ship as freemium, donation-unlocked, or source-available instead. I'll be upfront about licensing the moment anything like that goes live.
 
 #### `🥑 Shipped` — Live and ready to eat
-- [TextGlide](https://textglide.app) — EPUB reformatter that inserts research-calibrated spacing at phrase boundaries — read faster without noticing why
+- [TextGlide](https://textglide.app) — EPUB reformatter that inserts research-calibrated spacing at phrase boundaries — read faster today
 - [Memento Mori](https://memento-mori-4bm.pages.dev/) — Calculates how much of your life is actually free, after sleep, work, education, and habitual time-wasting
 
 #### `🌱 Ripening` — Actively being built
@@ -39,7 +39,7 @@ Most of what I build here is and will stay free and open-source. A couple of fut
 <br/><br/>
 
 ### 🧐 Currently Leveling Up
-I'm not a coder. But as AI improved, I’m finally able to build the things I'd been sketching in my head for years. So I'm learning by doing, using AI pair-programming, and whatever tools help me turn ideas into reality. Shell scripts to automate the boring stuff, Python and TypeScript for the actual building, Go when I need something fast and reliable, and Docker to keep it all from falling apart.
+I'm not a coder. But as AI improved, I’m finally able to build the things I'd been sketching in my head for years. So I'm learning by doing, using AI pair-programming, and whatever tools help me turn ideas into reality. Shell scripts to automate the boring stuff, Python and TypeScript for the actual building, Go when I need something fast and reliable, and Docker to keep it all together.
 
 [![My Skills](https://skillicons.dev/icons?i=bash,py,ts,go,docker)](https://skillicons.dev)
 <br/><br/>
