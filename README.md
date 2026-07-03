@@ -25,6 +25,7 @@ Most of what I build here is and will stay free and open-source. A couple of fut
 
 #### `🌱 Ripening` — Actively being built
 - Revamp of the [avocaadottack](https://avocadoattack.com) website
+- GH repo containing my dotfiles
 
 #### `🌰 Seedling` — Idea stage, not yet planted 
 - Self-hosted, centralized captcha service (Cap.dev-powered) protecting every project under one roof, no per-app setup
