@@ -21,6 +21,7 @@ Most of what I build here is and will stay free and open-source. A couple of fut
 
 #### `🥑 Shipped` — Live and ready to eat
 - [TextGlide](https://textglide.app) — EPUB reformatter that inserts research-calibrated spacing at phrase boundaries — read faster today
+- [My LittleLink](https://link.avocadoattack.com/) — One privacy-respecting hub for every way to reach me: socials, secure messaging, email, and support
 - [Memento Mori](https://memento-mori-4bm.pages.dev/) — Calculates how much of your life is actually free, after sleep, work, education, and habitual time-wasting
 
 #### `🌱 Ripening` — Actively being built
