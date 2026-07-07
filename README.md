@@ -23,11 +23,11 @@ Most of what I build here is and will stay free and open-source. A couple of fut
 - [TextGlide](https://textglide.app) — EPUB reformatter that inserts research-calibrated spacing at phrase boundaries — read faster today
 - [My LittleLink](https://link.avocadoattack.com/) — One privacy-respecting hub for every way to reach me: socials, secure messaging, email, and support
 - [Memento Mori](https://memento-mori-4bm.pages.dev/) — Calculates how much of your life is actually free, after sleep, work, education, and habitual time-wasting
+- [dotfiles](https://github.com/avocadoattack/dotfiles) — Personal dotfiles managed with chezmoi — zsh, Starship prompt, iTerm2, and supporting tool configs
 
 #### `🌱 Ripening` — Actively being built
 - Revamp of the [avocaadottack](https://avocadoattack.com) website
-- My `dotfiles` repo for a portable terminal setup
-- My personal `bootstrap-script` for easy setup of new computers
+- My personal `bootstrap-script` for an easy-peasy provisioning of a new Mac
 
 #### `🌰 Seedling` — Idea stage, not yet planted 
 - Self-hosted, centralized captcha service (Cap.dev-powered) protecting every project under one roof, no per-app setup
