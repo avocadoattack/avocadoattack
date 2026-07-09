@@ -52,8 +52,8 @@ If you have any feedback, critiques, or compliments, please do tell! Send me som
 
 * **Fastest**
 
-  [![Tuta Mail](https://img.shields.io/badge/Tuta%20Mail%20-%20%23840010?&logo=tutanota&logoSize=auto)](mailto:howdy@avocadoattack.com)
-  [![Proton Mail](https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff)](mailto:avocadoattack@proton.me)
+  [![Tuta Mail](https://img.shields.io/badge/Tuta%20Mail%20-%20%23840010?&logo=tutanota&logoSize=auto)](mailto:githubreadme.alias123@avocadoattack.com)
+  [![Proton Mail](https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff)](mailto:githubreadme.heritage766@passinbox.com)
 
 * **Slow and sporadic**
 
