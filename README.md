@@ -24,7 +24,7 @@ Most of what I build here is and will stay free and open-source. A couple of fut
 - [My LittleLink](https://link.avocadoattack.com/) — One privacy-respecting hub for every way to reach me: socials, secure messaging, email, and support
 - [Memento Mori](https://memento-mori-4bm.pages.dev/) — Calculates how much of your life is actually free, after sleep, work, education, and habitual time-wasting
 - [dotfiles](https://github.com/avocadoattack/dotfiles) — Personal dotfiles managed with chezmoi — zsh, Starship prompt, iTerm2, and supporting tool configs
-- [guacsweep](https://github.com/avocadoattack/guacsweep) — Lean and transparent macOS CLI maintenance tool, written in plain bash & fully auditable
+- [GuacSweep](https://github.com/avocadoattack/GuacSweep) — Lean and transparent macOS CLI maintenance tool, written in plain bash & fully auditable
 
 #### `🌱 Ripening` — Actively being built
 - Revamp of the [avocaadottack](https://avocadoattack.com) website
