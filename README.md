@@ -34,7 +34,7 @@ Most of what I build here is and will stay free and open-source. A few future id
 - [GuacSweep](https://github.com/avocadoattack/GuacSweep) — Lean, safety-first, interactive CLI cleanup tool for macOS, written in plain bash with zero dependencies.
 
 #### `🌱 Ripening` — Actively being built
-- Revamp of the [avocaadottack](https://avocadoattack.com) website
+- Revamp of the [avocadoattack](https://avocadoattack.com) website
 
 #### `🌰 Seedling` — Idea not yet planted 
 - Self-hosted, centralized captcha service (Cap.dev-powered) protecting every project under one roof, no per-app setup
