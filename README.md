@@ -12,6 +12,7 @@
 I’m Mr. Avocado: crazy about privacy, pie (charts), and puns, with a curiosity that branches into everything from monetary history and finance to biohacking, psychopharmacology, and philosophy. Whether I’m plotting world domination or just the perfect spreadsheet, gathering and sorting knowledge is my favorite ~~mashtime~~ pastime.
 
 When it comes to organizing, I’m the toast of the town; turning research into beautiful, actionable, and interactive lists is my specialty. Over time, I’ve curated collections of apps, tools, and services that help life run more privately, securely, efficiently, and fun. If my puns don’t guac your world, you can always *kiss my [hass](https://en.wikipedia.org/wiki/Hass_avocado)*.
+
 <img width="2200" height="500" alt="Guac-n-Roll GIF Banner" src="https://github.com/user-attachments/assets/39d18f28-50ca-4d3d-80ce-4103f4d00cef" />
 
 ### 🛠️ Projects
