@@ -55,17 +55,27 @@ I'm not a coder. But between AI pair-programming and enough guac-fueled evenings
 #### 🔪 Get By On
 Not fully fluent here but battle-tested across three shipped projects.
 
-[![My Skills](https://skillicons.dev/icons?i=md,html,css,bash)](https://skillicons.dev)
+[![Markdown](https://skillicons.dev/icons?i=md)](https://daringfireball.net/projects/markdown/)
+[![HTML](https://skillicons.dev/icons?i=html)](https://html.spec.whatwg.org/)
+[![CSS](https://skillicons.dev/icons?i=css)](https://www.w3.org/Style/CSS/)
+[![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
 
 #### 🥣 Actively Mixing
 Picking these up one project at a time, and learning by doing. Still figuring plenty out as I build.
 
-[![My Skills](https://skillicons.dev/icons?i=py,ts,go,docker,flask,vite,react)](https://skillicons.dev)
+[![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
+[![Go](https://skillicons.dev/icons?i=go)](https://go.dev/)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+[![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/)
+[![Vite](https://skillicons.dev/icons?i=vite)](https://vite.dev/)
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
 
 #### 🧂 On the Shelf
 Haven't touched these yet, and I'm genuinely excited for the excuse to start.
 
-[![My Skills](https://skillicons.dev/icons?i=astro,elixir)](https://skillicons.dev)
+[![Astro](https://skillicons.dev/icons?i=astro)](https://astro.build/)
+[![Elixir](https://skillicons.dev/icons?i=elixir)](https://elixir-lang.org/)
 <br/><br/>
 
 ### 📫 Say Hi!
