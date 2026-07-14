@@ -53,23 +53,27 @@ If you have any feedback, critiques, or compliments, please do tell! Send me som
 
 * **Fastest**
 
-  [![Tuta Mail](https://img.shields.io/badge/Tuta%20Mail%20-%20%23840010?&logo=tutanota&logoSize=auto)](mailto:githubreadme.alias123@avocadoattack.com)
-  [![Proton Mail](https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff)](mailto:githubreadme.heritage766@passinbox.com)
+  [![Tuta Mail](https://img.shields.io/badge/Tuta%20Mail-840010?style=flat&logo=tuta&logoColor=fff&logoSize=auto)](mailto:githubreadme.alias123@avocadoattack.com)
+  [![Signal](https://img.shields.io/badge/Signal-3A76F0?style=flat&logo=signal&logoColor=fff&logoSize=auto)](#LINK-TBD)
+  [![XMPP](https://img.shields.io/badge/XMPP-0b7eb1?style=flat&logo=xmpp&logoColor=fff&logoSize=auto)](xmpp:avocadoattack@pwned.life)
 
-* **Slow and sporadic**
+* **May take a bit**
 
-  [![XMPP](https://img.shields.io/badge/XMPP%20-%20%230b7eb1?style=flat&logo=xmpp&logoSize=auto)](xmpp:avocadoattack@pwned.life)
-  [![SimpleX](https://custom-icon-badges.demolab.com/badge/SimpleX%20-%20%2356bef9?logo=simplex-messenger&logoSize=auto)](https://simplex.chat/contact#/?v=2-5&smp=smp%3A%2F%2F1OwYGt-yqOfe2IyVHhxz3ohqo3aCCMjtB-8wn4X_aoY%3D%40smp11.simplex.im%2FQPR6nSiYuHl50E8qUg83LMKfbfX76Z12%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAUe6GXFzaHB9vxqmAAo3ucf1EFGSaeGcEqouC0ld0aVk%253D%26srv%3D6ioorbm6i3yxmuoezrhjk6f6qgkc4syabh7m3so74xunb5nzr4pwgfqd.onion)
-  [![Matrix](https://img.shields.io/badge/Matrix%20-%20%23334155?style=flat&logo=matrix&logoSize=auto)](https://matrix.to/#/@avocadoattack:matrix.org)
+  [![Proton Mail](https://img.shields.io/badge/Proton%20Mail-6D4AFF?style=flat&logo=protonmail&logoColor=fff&logoSize=auto)](mailto:githubreadme.heritage766@passinbox.com)
+  [![SimpleX](https://img.shields.io/badge/SimpleX-03C0FF?style=flat&logo=simplex&logoColor=fff&logoSize=auto)](https://simplex.chat/contact#/?v=2-5&smp=smp%3A%2F%2F1OwYGt-yqOfe2IyVHhxz3ohqo3aCCMjtB-8wn4X_aoY%3D%40smp11.simplex.im%2FQPR6nSiYuHl50E8qUg83LMKfbfX76Z12%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAUe6GXFzaHB9vxqmAAo3ucf1EFGSaeGcEqouC0ld0aVk%253D%26srv%3D6ioorbm6i3yxmuoezrhjk6f6qgkc4syabh7m3so74xunb5nzr4pwgfqd.onion)
+  
+* **Sporadic**
+  
+  [![Matrix](https://img.shields.io/badge/Matrix-334155?style=flat&logo=matrix&logoColor=fff&logoSize=auto)](https://matrix.to/#/@avocadoattack:matrix.org)
 <br/><br/>
 
 ### 🤗 Socials & Tip Jar
 I exist on socials more in theory than in practice, but the links are there if you want to try your luck. If you appreciate my work though, a tip always lands. **Thank you!**
 
-[![Twitter](https://img.shields.io/badge/Twitter%20-%20%23334155?style=flat&logo=x&logoSize=auto)](https://x.com/avoattack)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/avoattack/)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/avocadoattack)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/avocadoattack)
+[![Twitter](https://img.shields.io/badge/Twitter-334155?style=flat&logo=x&logoColor=white&logoSize=auto)](https://x.com/avoattack)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white&logoSize=auto)](https://www.reddit.com/user/avoattack/)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black&logoSize=auto)](https://buymeacoffee.com/avocadoattack)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=flat&logo=ko-fi&logoColor=white&logoSize=auto)](https://ko-fi.com/avocadoattack)
 <br/><br/>
 
 ### 🙏 Acknowledgements
