@@ -11,9 +11,9 @@
 ### 😎 Avoca-Yo!
 I’m Mr. Avocado: crazy about privacy, pie (charts), and puns, with a curiosity that branches into everything from monetary history and finance to biohacking, psychopharmacology, and philosophy. Whether I’m plotting world domination or just the perfect spreadsheet, gathering and sorting knowledge is my favorite ~~mashtime~~ pastime.
 
-When it comes to organizing, I’m the toast of the town; turning research into beautiful, actionable, and interactive lists is my specialty. Over time, I’ve curated collections of apps, tools, and services that help life run more privately, securely, efficiently, and fun.
+When it comes to organizing, I’m the toast of the town; turning research into beautiful, actionable, and interactive lists is my specialty. Over time, I’ve curated collections of apps, tools, and services that help life run more privately, securely, and efficiently.
 
-Lately that curiosity's started leaking into actual code. I'm no developer, but with AI as a build partner I've turned a few long-simmering ideas into things that actually run, with more queued up. Building right alongside learning, one late-night rabbit hole at a time.
+Lately that curiosity's started leaking into actual code. I'm no developer, but with AI as a build partner I've turned a few long-simmering ideas into things that actually run, with more queued up. Building and learning, one late-night rabbit hole at a time.
 
 <div align="center">
 <i>If my puns don't guac your world, you can always kiss my <a href="https://en.wikipedia.org/wiki/Hass_avocado">hass</a>.</i>
@@ -50,7 +50,7 @@ Most of what I build here is and will stay free and open-source. A few future id
 
 ### 🧑‍🍳 What's in the Kitchen
 
-I'm not a coder. But between AI pair-programming and enough guac-fueled evenings, I'm finally building the things I used to just sketch in my head. Here's what's prepped: what I can get by on, what I'm still learning as I go, and what's sitting there waiting for me to finally try it.
+I'm not a coder. But between AI pair-programming and enough guac-fueled evenings, I'm finally building the things I used to just sketch in my head. Here's what I can get by on, what I'm still learning as I go, and what's sitting there waiting for me to try it.
 
 #### 🔪 Get By On
 Not fully fluent here but battle-tested across three shipped projects.
@@ -88,7 +88,7 @@ If you have any feedback, critiques, or compliments, please do tell! Send me som
 <br/><br/>
 
 ### 🤗 Socials & Tip Jar
-I exist on socials more in theory than in practice, but the links are there if you want to try your luck. If you appreciate my work though, a tip always lands. **Thank you!**
+I exist on socials more in theory than in practice, but the links are here nonetheless. If you appreciate my work though, a tip always lands. **Thank you!**
 
 [![Twitter](https://img.shields.io/badge/Twitter-334155?style=flat&logo=x&logoColor=white&logoSize=auto)](https://x.com/avoattack)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white&logoSize=auto)](https://www.reddit.com/user/avoattack/)
