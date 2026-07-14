@@ -11,14 +11,20 @@
 ### 😎 Avoca-Yo!
 I’m Mr. Avocado: crazy about privacy, pie (charts), and puns, with a curiosity that branches into everything from monetary history and finance to biohacking, psychopharmacology, and philosophy. Whether I’m plotting world domination or just the perfect spreadsheet, gathering and sorting knowledge is my favorite ~~mashtime~~ pastime.
 
-When it comes to organizing, I’m the toast of the town; turning research into beautiful, actionable, and interactive lists is my specialty. Over time, I’ve curated collections of apps, tools, and services that help life run more privately, securely, efficiently, and fun. If my puns don’t guac your world, you can always *kiss my [hass](https://en.wikipedia.org/wiki/Hass_avocado)*.
+When it comes to organizing, I’m the toast of the town; turning research into beautiful, actionable, and interactive lists is my specialty. Over time, I’ve curated collections of apps, tools, and services that help life run more privately, securely, efficiently, and fun.
+
+Lately that curiosity's started leaking into actual code. I'm no developer, but with AI as a build partner I've turned a few long-simmering ideas into things that actually run, with more queued up. Building right alongside learning, one late-night rabbit hole at a time.
+
+<div align="center">
+<i>If my puns don't guac your world, you can always kiss my <a href="https://en.wikipedia.org/wiki/Hass_avocado">hass</a>.</i>
+</div>
 
 <img width="2200" height="400" alt="Guac-N-Roll-GIF-Banner-2200-x-400" src="https://github.com/user-attachments/assets/a5c16610-2e6c-48a8-bca1-070d89190b66" />
 
 ### 🛠️ Projects
 > *Development happens in bursts: nothing for weeks, then three things ship in a weekend.*
 
-Most of what I build here is and will stay free and open-source. A couple of future ideas may ship as freemium, donation-unlocked, or source-available instead. I'll be upfront about licensing the moment anything like that goes live.
+Most of what I build here is and will stay free and open-source. A few future ideas may ship as closed-source freemium, donation-unlocked, or open core instead. I'll be upfront about licensing the moment anything like that goes live.
 
 #### `🥑 Shipped` — Live and ready to eat
 - [TextGlide](https://textglide.app) — EPUB reformatter that inserts research-calibrated spacing at phrase boundaries so you can read faster today
@@ -30,7 +36,7 @@ Most of what I build here is and will stay free and open-source. A couple of fut
 #### `🌱 Ripening` — Actively being built
 - Revamp of the [avocaadottack](https://avocadoattack.com) website
 
-#### `🌰 Seedling` — Idea stage, not yet planted 
+#### `🌰 Seedling` — Idea not yet planted 
 - Self-hosted, centralized captcha service (Cap.dev-powered) protecting every project under one roof, no per-app setup
 - One-click-deploy-button directory: every one-click deploy option cataloged in one place, no more scavenger hunts
 - Shell scripts to automate repetitive tasks, simplify routine machine upkeep, and generally keep my setup from rotting
@@ -42,10 +48,24 @@ Most of what I build here is and will stay free and open-source. A couple of fut
 - A just-for-fun homage to *The Net*'s Praetorian / π easter egg, because some bits deserve a nod (long live the 90s)
 <br/><br/>
 
-### 🧐 Currently Leveling Up
-I'm not a coder. But as AI improved, I’m finally able to build the things I'd been sketching in my head for years. So I'm learning by doing, using AI pair-programming, and whatever tools help me turn ideas into reality. Shell scripts to automate the boring stuff, Python and TypeScript for the actual building, Go when I need something fast and reliable, and Docker to keep it all together.
+### 🧑‍🍳 What's in the Kitchen
 
-[![My Skills](https://skillicons.dev/icons?i=bash,py,ts,go,docker)](https://skillicons.dev)
+I'm not a coder. But between AI pair-programming and enough guac-fueled evenings, I'm finally building the things I used to just sketch in my head. Here's what's prepped: what I can get by on, what I'm still learning as I go, and what's sitting there waiting for me to finally try it.
+
+#### 🔪 Get By On
+Not fully fluent here but battle-tested across three shipped projects.
+
+[![My Skills](https://skillicons.dev/icons?i=md,html,css,bash)](https://skillicons.dev)
+
+#### 🥣 Actively Mixing
+Picking these up one project at a time, and learning by doing. Still figuring plenty out as I build.
+
+[![My Skills](https://skillicons.dev/icons?i=py,ts,go,docker,flask,vite,react)](https://skillicons.dev)
+
+#### 🧂 On the Shelf
+Haven't touched these yet, and I'm genuinely excited for the excuse to start.
+
+[![My Skills](https://skillicons.dev/icons?i=astro,elixir)](https://skillicons.dev)
 <br/><br/>
 
 ### 📫 Say Hi!
@@ -78,24 +98,24 @@ I exist on socials more in theory than in practice, but the links are there if y
 
 ### 🙏 Acknowledgements
 * [Awesome README](https://github.com/matiassingers/awesome-readme)
-* [md-badges](https://github.com/inttter/md-badges)
-* [custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+* [Skill Icons](https://github.com/tandpfun/skill-icons)
 * [Cole Gawin](https://github.com/chroline)
-* [Dwita Alya](https://github.com/dwitawin)
 <br/><br/>
 
 ### ℹ️ IP Notice
 The `avocadoattack` handle and `Mr. Avocado` avatar are trademarks of Mr. Avocado. All rights reserved.
 <br/><br/>
 
-> [!IMPORTANT]
-> `Random Joke` ➞ One avocado said to the other, “You’re hardcore.”
+***
+
+<h3 align="center">🌈 Remember to spread avocados, not hate.
+That's all folks! Avo-great day 🌞</h3>
 <br/><br/>
 
-<h2 align="center">Remember to spread avocados, not hate.
-That's all folks! Avo-great day 🌞</h2>
-<br/><br/>
-
+<div align="center">
+  
 ![](https://komarev.com/ghpvc/?username=avocadoattack&color=brightgreen&style=for-the-badge)
 
 ![](https://hit.yhype.me/github/profile?user_id=80217976)
+
+</div>
