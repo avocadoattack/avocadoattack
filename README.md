@@ -11,9 +11,9 @@
 ### 😎 Avoca-Yo!
 I’m Mr. Avocado: crazy about privacy, pie (charts), and puns, with a curiosity that branches into everything from monetary history and finance to biohacking, psychopharmacology, and philosophy. Whether I’m plotting world domination or just the perfect spreadsheet, gathering and sorting knowledge is my favorite ~~mashtime~~ pastime.
 
-When it comes to organizing, I’m the toast of the town; turning research into beautiful, actionable, and interactive lists is my specialty. Over time, I’ve curated collections of apps, tools, and services that help life run more privately, securely, and efficiently.
+When it comes to organizing, I’m the toast of the town; turning research into beautiful, actionable, and interactive lists is my specialty. Over time, I’ve curated collections of apps, tools, and services that help life run more privately and efficiently.
 
-Lately that curiosity's started leaking into actual code. I'm no developer, but with AI as a build partner I've turned a few long-simmering ideas into things that actually run, with more queued up. Building and learning, one late-night rabbit hole at a time.
+Lately that curiosity's started leaking into actual code. I'm no developer, but with AI as a build partner I've turned a few long-simmering ideas into things that actually run, with more to come. Building and learning, one rabbit hole at a time.
 
 <div align="center">
 <i>If my puns don't guac your world, you can always kiss my <a href="https://en.wikipedia.org/wiki/Hass_avocado">hass</a>.</i>
