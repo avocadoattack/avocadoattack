@@ -84,7 +84,7 @@ If you have any feedback, critiques, or compliments, please do tell! Send me som
 * **Fastest**
 
   [![Tuta Mail](https://img.shields.io/badge/Tuta%20Mail-840010?style=flat&logo=tuta&logoColor=fff&logoSize=auto)](mailto:githubreadme.alias123@avocadoattack.com)
-  [![Signal](https://img.shields.io/badge/Signal-3A76F0?style=flat&logo=signal&logoColor=fff&logoSize=auto)](#LINK-TBD)
+  [![Signal](https://img.shields.io/badge/Signal-3A76F0?style=flat&logo=signal&logoColor=fff&logoSize=auto)](https://signal.me/#eu/EBP30BTbheYBw16m3IwziHIza5pnaTLtIRyEQv1d05qKM5JvDgJMFq_36_YSPTwP)
   [![XMPP](https://img.shields.io/badge/XMPP-0b7eb1?style=flat&logo=xmpp&logoColor=fff&logoSize=auto)](xmpp:avocadoattack@pwned.life)
 
 * **May take a bit**
