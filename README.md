@@ -35,6 +35,7 @@ Most of what I build here is and will stay free and open-source. A few future id
 
 #### `🌱 Ripening` — Actively being built
 - Revamp of the [avocadoattack](https://avocadoattack.com) website
+- Avostars: a Go scraper and Python renderer that turn my curated GitHub star lists into a self-updating README
 
 #### `🌰 Seedling` — Idea not yet planted 
 - Self-hosted, centralized captcha service (Cap.dev-powered) protecting every project under one roof, no per-app setup
