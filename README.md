@@ -46,6 +46,9 @@ Most of what I build here is and will stay free and open-source. A few future id
 - Medication travel dossier generator: input meds and itinerary; get a per-country legal checklist (prescriptions, permits...)
 - Spanish learning tool built around confusing contrasts (*ser* vs. *estar*, *por* vs. *para*, false friends), not textbook chapters
 - A just-for-fun homage to *The Net*'s Praetorian / π easter egg, because some bits deserve a nod (long live the 90s)
+- Registrar switch calculator: input your domain portfolio, see what switching registrars would really cost or save
+- XMPP alert bot that turns any webhook, page change, or thread reply into a private Cheogram/SimpleX notification
+- TickTick backup tool: scheduled, API-based export of your TickTick data straight to Proton Drive or Tuta Drive
 <br/><br/>
 
 ### 🧑‍🍳 What's in the Kitchen
