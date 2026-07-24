@@ -126,6 +126,8 @@ The `avocadoattack` handle and `Mr. Avocado` avatar are trademarks of Mr. Avocad
 That's all folks! Avo-great day 🌞</h3>
 <br/><br/>
 
+[![avocadoattack's GitYear](https://www.gityear.com/api/card/avocadoattack?theme=yellowPine)](https://www.gityear.com/avocadoattack)
+
 <div align="center">
   
 ![](https://komarev.com/ghpvc/?username=avocadoattack&color=brightgreen&style=for-the-badge)
