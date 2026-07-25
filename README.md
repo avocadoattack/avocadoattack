@@ -9,9 +9,9 @@
 </div>
 
 ### 😎 Avoca-Yo!
-I’m Mr. Avocado: crazy about privacy, pie (charts), and puns, with a curiosity that branches into everything from monetary history and finance to biohacking, psychopharmacology, and philosophy. Whether I’m plotting world domination or just the perfect spreadsheet, gathering and sorting knowledge is my favorite ~~mashtime~~ pastime.
+I’m Mr. Avocado: crazy about privacy, pie (charts), and puns, with a curiosity that branches into everything from monetary history and finance to biohacking, psychopharmacology, personality psychology, and philosophy. Whether I’m plotting world domination or just the perfect spreadsheet, gathering and sorting knowledge is my favorite ~~mashtime~~ pastime.
 
-When it comes to organizing, I’m the toast of the town; turning research into beautiful, actionable, and interactive lists is my specialty. Over time, I’ve curated collections of apps, tools, and services that help life run more privately and efficiently.
+When it comes to organizing, I’m the toast of the town; turning research into beautiful, actionable, and interactive tools is my specialty. Over time, I’ve curated collections of apps and services that help life run more privately and efficiently.
 
 Lately that curiosity's started leaking into actual code. I'm no developer, but with AI as a build partner I've turned a few long-simmering ideas into things that actually run, with more to come. Building and learning, one rabbit hole at a time.
 
