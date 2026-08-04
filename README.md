@@ -41,7 +41,6 @@ Most of what I build here is and will stay free and open-source. A few future id
 - Self-hosted, centralized captcha service (Cap.dev-powered) protecting every project under one roof, no per-app setup
 - One-click-deploy-button directory: every one-click deploy option cataloged in one place, no more scavenger hunts
 - Shell scripts to automate repetitive tasks, simplify routine machine upkeep, and generally keep my setup from rotting
-- ADHD med tracker using real pharmacokinetic data, user vitals, and food timing mapped to a concentration-time curve
 - Plain-language digest of BIS, FSB, IMF, and World Bank publications, tracking the CBDC/stablecoin story as it unfolds
 - Email badge generator: a spiritual revival of [Nexodyne's tool](https://web.archive.org/web/20250518164602/https://services.nexodyne.com/email/): a PNG badge pairing your handle with your provider's logo
 - Medication travel dossier generator: input meds and itinerary; get a per-country legal checklist (prescriptions, permits...)
